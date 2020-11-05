@@ -1,1 +1,1 @@
-# automated-brain-tumor-detector-using-tensorflowjs
+# automated-cataract-detector-using-tensorflowjs
