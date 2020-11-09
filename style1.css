@@ -144,7 +144,23 @@ body {
   background-color: rgba(117, 204, 84, 1);
 }
 
-
+.Invalid-box {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+.Invalid-bar {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
 
 .percent-text {
   font-size: 1rem;
@@ -169,6 +185,10 @@ body {
 }
 
 .Cataract-animal-title {
+    color: #ff6c0a;
+}
+
+.Invalid-animal-title {
     color: #ff6c0a;
 }
 
